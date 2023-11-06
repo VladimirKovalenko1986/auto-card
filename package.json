@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "auto-card",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://VladimirKovalenko1986.github.io/auto-card",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /auto-card/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/VladimirKovalenko1986/auto-card.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Kovalenko Volodimir <dat=nte77758@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/VladimirKovalenko1986/auto-card/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
