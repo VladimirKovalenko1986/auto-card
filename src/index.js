@@ -30,13 +30,11 @@ function onClick(e) {
 
   // Якщо не знайло id напріклад не прийшов з бекенду
   if (!currentItem) {
-    const instance = basicLightbox.create(
-      `
+    const instance = basicLightbox.create(`
     <div class = "wrapper">
     <img src="https://t4.ftcdn.net/jpg/05/07/58/41/360_F_507584110_KNIfe7d3hUAEpraq10J7MCPmtny8EH7A.jpg" />
     </div>
-`
-    );
+`);
     instance.show();
     return;
   } else {
